@@ -1,1 +1,2 @@
-# Text_Analytics_Project
+# COVID-19 Fake News Detection
+
